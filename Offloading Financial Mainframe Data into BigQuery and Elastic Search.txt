@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Offloading%20Financial%20Mainframe%20Data%20into%20BigQuery%20and%20Elastic%20Search/quicklabgsp1153.sh
+sudo chmod +x quicklabgsp1153.sh
+./quicklabgsp1153.sh
