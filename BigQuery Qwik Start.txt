@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/BigQuery%20Qwik%20Start%20%20Command%20Line/quicklabgsp071.sh
+
+sudo chmod +x quicklabgsp071.sh
+
+./quicklabgsp071.sh

@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Getting%20Started%20with%20BigQuery%20ML/gsp247.sh
+
+sudo chmod +x gsp247.sh
+
+./gsp247.sh
