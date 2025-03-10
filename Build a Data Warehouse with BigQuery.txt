@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Build%20a%20Data%20Warehouse%20with%20BigQuery%20Challenge%20Lab/quicklabgsp340.sh
+
+sudo chmod +x quicklabgsp340.sh
+
+./quicklabgsp340.sh
