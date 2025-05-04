@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Cloud%20Natural%20Language%20API%20Qwik%20Start/arcadecrew.sh
+
+sudo chmod +x arcadecrew.sh
+
+./arcadecrew.sh
